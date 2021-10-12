@@ -22,3 +22,8 @@ git clone https://github.com/viniciuslima21/toDo-frontEnd.git
     * Date-FNS
     * React-router-dom
     * QrCode-react
+
+## Imagens do projeto
+![Project01](./src/assets/project01.png)
+![Project01](./src/assets/project02.png)
+![Project01](./src/assets/project03.png)
