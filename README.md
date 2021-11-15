@@ -14,7 +14,7 @@ git clone https://github.com/viniciuslima21/toDo-frontEnd.git
 * CSS
 * JavaScript
 * React
-    * Styled-domponents
+    * Styled-components
     * Axios
     * Date-FNS
     * React-router-dom
