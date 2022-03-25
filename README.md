@@ -6,7 +6,7 @@ Obs: O projeto não está finalizado, faltando a versão Mobile. Portanto, a ger
 Para visualizar em seu computador use: 
 
 ```
-git clone https://github.com/viniciuslima21/toDo-frontEnd.git
+git clone https://github.com/viniciuslimaan/toDo-frontEnd.git
 ```
 
 ## Tecnologias utilizadas
